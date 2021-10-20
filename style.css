@@ -1,0 +1,38 @@
+.Block{
+    background-color: darkslateblue;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 100px;
+    padding-left: 15px;
+}
+.Text{
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+
+}
+.Item{
+    color: yellow;
+    padding-right: 14px;
+}
+
+.bg{
+   width: 100%;
+   position: relative;
+   top: 0;
+}
+.IMG{
+    width: 100%;
+    height: 800px;
+    background-color: rgba(79, 72, 72 0,5) ;
+    overflow: hidden;
+   position: absolute;
+    
+}
+.TITLE{
+    margin: auto;
+}
