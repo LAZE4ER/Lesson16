@@ -6,15 +6,51 @@
     display: flex;
 }
 .logo{
-    width: 100px;
+    width: 70px;
     padding-left: 15px;
+    padding: 10px;
 }
 .Text{
     font-size: 19px;
     display: flex;
-align-items: center;
+    align-items: center;
 }
 .Item{
     color: yellow;
     padding-right: 14px;
 }
+.mein{
+    height: 380px;
+    overflow: hidden;
+    position: relative;
+}
+.w{
+    width: 100%;
+}
+.r{
+height: 100%;
+width: 100%;
+background-color: rgba(125, 118, 118, 0.524);
+position: absolute;
+top: 0px;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding: 46%;
+}
+.s{
+    height: 2px;
+    width: 80px;
+    margin: auto;
+    background-color: white;
+}
+.h{
+    font-size: 23px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    
+}
+
